@@ -1,0 +1,37 @@
+body {
+  background-color: #313338;
+  text-align: center
+}
+
+.text-color {
+  color: #dbe1e1;
+}
+
+.family2{
+  font-family: 'Arial';
+}
+
+.b-design{
+  background: #000000;
+  border-image: #ffffff;
+  border-radius: 100px;
+  color: #ffffff;
+  display: block;
+  width: 200px;
+  padding: 5px;
+  margin: 10px auto;
+  font-size: 12px;
+}
+
+.t-design{
+  text-align: center;
+  background: #000000;
+  border-image: #ffffff;
+  border-radius: 0px;
+  color: #ffffff;
+  display: block;
+  margin: 10px auto;
+  height: 25px;
+  width: 300px;
+  font-size: 12px;
+}
